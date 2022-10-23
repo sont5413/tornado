@@ -7,6 +7,7 @@
 * Feature importance: Assess important features of the rf regressor model
 
 ## Findings 
+![image](https://user-images.githubusercontent.com/95881308/197411943-a91149c5-45de-471a-ae10-b06659592272.png)
 
 * A tornado's magnitude was not the most important feature in predicting number of fatalities from a tornado
 * The month, time zone, and state were all more predictive power
