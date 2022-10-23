@@ -1,5 +1,7 @@
-## Features of a tornado that predict number of fatalities
-### I wanted to see what features from a tornado influence predict the number of fatalities
+![image](https://user-images.githubusercontent.com/95881308/197412724-3d32f019-969e-4338-bb2b-126346c17040.png)
+1999 Bridge Creek–Moore tornado, the strongest tornado on record affected the Oklahoma City, Oklahoma metropolitan area
+
+### I wanted to see what features from a tornado predict  number of fatalities
 * Data: This is a unique dataset owned by NOAA of all recorded tornados since 1951
 
 ## Methods: 
