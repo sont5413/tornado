@@ -3,7 +3,7 @@
 Image of the 1999 Bridge Creek–Moore tornado, which is the strongest tornado ever recorded, globally. It affected the Oklahoma City, Oklahoma metropolitan area.
 
 ### I wanted to see what features from a tornado predict  number of fatalities
-* Data: This is a unique dataset owned by NOAA of all recorded tornados since 1951
+* Data: This is a dataset maintained by the National Oceanic and Atmospheric Administration (NOAA) of all recorded tornados since 1951.
 
 ## Methods: 
 * Model selection: Split data into test and train datasets and evaluate model perforamnce by mean absolute error (MAE). Evaluate performanc of random forest (rf), gradient boosting (gb), and xgboosting (xgb) regressor models.  The rf regressor model had the least MAE.
