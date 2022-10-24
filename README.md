@@ -10,9 +10,7 @@ Image of the 1999 Bridge Creek–Moore tornado, which is the strongest tornado e
 * Feature importance: Assess important features of the rf regressor model
 
 ## Findings 
-![image](https://user-images.githubusercontent.com/95881308/197411943-a91149c5-45de-471a-ae10-b06659592272.png)
 
-* A tornado's magnitude was not the most important feature in predicting number of fatalities from a tornado
-* The month, time zone, and state were all more predictive power
+![image](https://user-images.githubusercontent.com/95881308/197559293-dd65eebf-49eb-4194-8ce3-f52ff67d0d5a.png)
 
-All else being equal, magnitude should be the most predictive factor, along with length and width of the tornado's path.  Of course, there is variability in what lies in the path of a tornado.  It is not always the case that a tornado's path overlaps with major city centers, major highways, and so on.  
+*A tornado's magnitude was the most important feature in predicting number of fatalities from a tornado.
