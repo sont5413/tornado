@@ -6,7 +6,7 @@ Image of the 1999 Bridge Creek–Moore tornado, which is the strongest tornado e
 * Data: This is a dataset maintained by the National Oceanic and Atmospheric Administration (NOAA) of all recorded tornados since 1951.
 
 ## Methods: 
-* Model selection: Split data into test and train datasets and evaluate model perforamnce by mean absolute error (MAE). Evaluate performanc of random forest (rf), gradient boosting (gb), and xgboosting (xgb) regressor models.  The rf regressor model had the least MAE.
+* Model selection: Split data into test and train datasets and evaluate model perforamnce by mean absolute error (MAE). Evaluate performance of random forest (rf), gradient boosting (gb), and xgboosting (xgb) regressor models.  The rf regressor model had the least MAE.
 * Feature importance: Assess important features of the rf regressor model
 
 ## Findings 
