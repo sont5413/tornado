@@ -9,7 +9,7 @@ Image of the 1999 Bridge Creek–Moore tornado, which is the strongest tornado e
 * Model selection: Split data into test and train datasets and evaluate model perforamnce by mean absolute error (MAE). Evaluate performance of random forest (rf), gradient boosting (gb), and xgboosting (xgb) regressor models.  The rf regressor model had the least MAE.
 * Feature importance: Assess important features of the rf regressor model
 
-## Findings 
+## Findings: 
 
 ![image](https://user-images.githubusercontent.com/95881308/197559293-dd65eebf-49eb-4194-8ce3-f52ff67d0d5a.png)
 
